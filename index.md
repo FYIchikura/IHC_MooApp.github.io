@@ -15,8 +15,8 @@ Somos uma equipe formada para um projeto da uc Interação Humano Computador da 
 ## Atividades
 
 ### Atividade 16/10
-[Heurístico](https://www.google.com.br)
-[User Research](https://www.google.com.br)
+[Heurístico](https://github.com/FYIchikura/IHC_MooApp.github.io/blob/master/userResearchApresentacao.pdf)
+[User Research](userResearchApresentacao.pdf)
 
 ```markdown
 Syntax highlighted code block
