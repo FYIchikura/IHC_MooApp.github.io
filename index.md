@@ -1,17 +1,24 @@
-## Welcome to GitHub Pages
+# MooApp
 
-You can use the [editor on GitHub](https://github.com/FYIchikura/IHC_MooApp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Somos uma equipe formada para um projeto da uc Interação Humano Computador da UNIFESP. MooApp é o protótipo de um aplicativo de gerenciamento de vacas leiteiras. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Equipe
 
-### Markdown
+[Ana Júlia Bellini](https://www.google.com.br) 
+[Flávia Yumi](https://www.google.com.br)
+[Natália Reis](https://www.google.com.br)
+[Willian Dihanster](https://www.google.com.br)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Atividades
+
+# Atividade 16/10
+[Heurístico] (https://www.google.com.br)
+[User Research] (https://www.google.com.br)
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# MooApp
 ## Header 2
 ### Header 3
 
