@@ -5,13 +5,16 @@ Somos uma equipe formada para um projeto da uc Interação Humano Computador da 
 ## Equipe
 
 [Ana Júlia Bellini](https://www.google.com.br) 
+
 [Flávia Yumi](https://www.google.com.br)
+
 [Natália Reis](https://www.google.com.br)
+
 [Willian Dihanster](https://www.google.com.br)
 
 ## Atividades
 
-# Atividade 16/10
+### Atividade 16/10
 [Heurístico] (https://www.google.com.br)
 [User Research] (https://www.google.com.br)
 
