@@ -15,7 +15,7 @@ Somos uma equipe formada para um projeto da uc Interação Humano Computador da 
 ## Atividades
 
 ### Atividade 16/10
-[Heurístico](https://github.com/FYIchikura/IHC_MooApp.github.io/blob/master/userResearchApresentacao.pdf)
+#### [Heurístico](https://github.com/FYIchikura/IHC_MooApp.github.io/blob/master/userResearchApresentacao.pdf)
 
 #### User Research
 - [Apresentação](userResearchApresentacao.pdf)
