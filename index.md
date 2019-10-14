@@ -4,13 +4,13 @@ Somos uma equipe formada para um projeto da uc Interação Humano Computador da 
 
 ## Equipe
 
-[Ana Júlia Bellini](https://www.google.com.br) 
+[Ana Júlia Bellini](github.com/anajbellini) 
 
-[Flávia Yumi](https://www.google.com.br)
+[Flávia Yumi](github.com/FYIchikura)
 
-[Natália Reis](https://www.google.com.br)
+[Natália Reis](github.com/natreis)
 
-[Willian Dihanster](https://www.google.com.br)
+[Willian Dihanster](github.com/dihanster)
 
 ## Atividades
 
