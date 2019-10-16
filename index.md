@@ -18,7 +18,7 @@ Nossa equipe é composta por:
 
 Algumas das atividades propostas e concluídas até então, são:
 
-### [Usability Inspection](Usability Inspection - Conclusão.pdf)
+### [Usability Inspection](UsabilityInspection.pdf)
 
 ### User Research
 - [Slides](userResearchApresentacao.pdf)
