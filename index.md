@@ -18,8 +18,8 @@ Nossa equipe é composta por:
 
 Algumas das atividades propostas e concluídas até então, são:
 
-### [Usability Inspection](https://github.com/FYIchikura/IHC_MooApp.github.io/blob/master/userResearchApresentacao.pdf)
+### [Usability Inspection](Usability Inspection - Conclusão.pdf)
 
-#### User Research
+### User Research
 - [Slides](userResearchApresentacao.pdf)
 - [Relatório](userResearchRelatorio.pdf)
