@@ -1,8 +1,10 @@
 # MooApp
 
-Somos uma equipe formada para um projeto da uc Interação Humano Computador da UNIFESP. MooApp é o protótipo de um aplicativo de gerenciamento de vacas leiteiras. 
+O MooApp é um protótipo de gerenciamento de vacas leiteiras, que faz parte do projeto final da disciplina de Interação Humano-Computador da UNIFESP.
 
 ## Equipe
+
+Nossa equipe é composta por:
 
 [Ana Júlia Bellini](https://github.com/anajbellini) 
 
@@ -14,9 +16,10 @@ Somos uma equipe formada para um projeto da uc Interação Humano Computador da 
 
 ## Atividades
 
-### Atividade 16/10
-#### [Heurístico](https://github.com/FYIchikura/IHC_MooApp.github.io/blob/master/userResearchApresentacao.pdf)
+Algumas das atividades propostas e concluídas até então, são:
+
+### [Usability Inspection](https://github.com/FYIchikura/IHC_MooApp.github.io/blob/master/userResearchApresentacao.pdf)
 
 #### User Research
-- [Apresentação](userResearchApresentacao.pdf)
+- [Slides](userResearchApresentacao.pdf)
 - [Relatório](userResearchRelatorio.pdf)
