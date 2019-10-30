@@ -23,3 +23,5 @@ Algumas das atividades propostas e concluídas até então, são:
 ### User Research
 - [Slides](userResearchApresentacao.pdf)
 - [Relatório](userResearchRelatorio.pdf)
+
+### [Protótipo Lo-Fi[(https://balsamiq.cloud/s5hu8ou/pb7xwnz)
