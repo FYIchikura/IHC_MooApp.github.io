@@ -27,3 +27,5 @@ Algumas das atividades propostas e concluídas até então, são:
 ### [Protótipo Lo-Fi](https://balsamiq.cloud/s5hu8ou/pb7xwnz)
 
 ### [Protótipo Hi-Fi](https://xd.adobe.com/view/966ea420-b100-401d-7de8-31f2f8c78507-e05f/?fullscreen)
+
+### [Apresentação Final](ApresentacaoFinal.pdf)
